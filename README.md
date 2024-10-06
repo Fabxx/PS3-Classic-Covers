@@ -1,6 +1,10 @@
 # PS3-Classic-Covers
 PS3 Covers edited with the classic playstation logo, adapted for steam (normal and bigpicture)
 
+Link: 
+
+https://mega.nz/file/lfQ0UCqK#jqbPyI4keZF6jtdz1zAYh3uNdEyMat_e7t5-6N1AfiY
+
 # Insight
 
 Comparison between modern and classic logo:
@@ -28,3 +32,13 @@ The left margin is transparent to avoid to have a black bar on the left.
 
 
 a bit of color correction as also been applied to the PS logo.
+
+
+You can integrate these covers with the steam rom manager parser i've made in the `GSG` repository.
+
+
+# Requesting Covers
+
+Create an issue with the Title name/ID and region.
+
+
